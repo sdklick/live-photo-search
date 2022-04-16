@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-photo-search/static/css/main.1a8a0596.css",
+    "main.js": "/live-photo-search/static/js/main.6f1d503a.js",
+    "index.html": "/live-photo-search/index.html",
+    "main.1a8a0596.css.map": "/live-photo-search/static/css/main.1a8a0596.css.map",
+    "main.6f1d503a.js.map": "/live-photo-search/static/js/main.6f1d503a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.6f1d503a.js"
+  ]
+}
